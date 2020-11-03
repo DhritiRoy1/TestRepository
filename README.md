@@ -1,3 +1,3 @@
 # WanicWork
-Test repository for WANIC VGP.
+Respository Containing all the projects done in WANIC.
 
