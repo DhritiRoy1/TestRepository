@@ -1,3 +1,3 @@
 # WanicWork
-Respository Containing all the projects done in WANIC.
+Respository containing all the projects done in WANIC.
 
